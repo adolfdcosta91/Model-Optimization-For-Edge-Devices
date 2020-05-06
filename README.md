@@ -10,3 +10,7 @@ The idea of the thesis was to harness the optimum potential from the limited res
 The following block diagram gives a preview of the system design.
 
 ![System Design](https://github.com/adolfdcosta91/Model-Optimization-For-Edge-Devices/blob/master/Github/Flow%20Chart%20Model%20Designing%20.png)
+
+## Result 
+
+Archived a sound classification model that is **85%** accurate and only **360kB** 
