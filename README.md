@@ -18,3 +18,7 @@ Archived a sound classification model that is **85%** accurate and only **360kB*
 
 ![Accuracy](https://github.com/adolfdcosta91/Model-Optimization-For-Edge-Devices/blob/master/Github/result.png)
 
+## System Generated Logs.
+
+![Logs](https://github.com/adolfdcosta91/Model-Optimization-For-Edge-Devices/blob/master/Github/ShrinkLog.png)
+
