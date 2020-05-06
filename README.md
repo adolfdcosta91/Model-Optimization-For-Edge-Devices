@@ -1,1 +1,1 @@
-# Model-Optimization-For-Edge-Devices
+# Model Optimization For Edge Devices
