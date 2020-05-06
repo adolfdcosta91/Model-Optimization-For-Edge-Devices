@@ -29,6 +29,17 @@ Archived a sound classification model that is **85%** accurate and only **360kB*
 
 ##Data Set
 
-Hello|How
+Label|Sound Sample
 ----|----
-test|123
+Knocking|407
+----|----
+Laughing|398
+----|----
+Typing|202
+----|----
+Coughing|286
+----|----
+Keys Jangling|146
+----|----
+Snap|169
+
