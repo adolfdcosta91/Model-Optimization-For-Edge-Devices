@@ -7,4 +7,6 @@ Designed a machine learning model that is concise yet accurate enough for edge c
 The idea of the thesis was to harness the optimum potential from the limited resources of microcontrollers.
 
 ## Design
-The following block diagram gives a preview of the system design. 
+The following block diagram gives a preview of the system design.
+
+![System Design](https://github.com/adolfdcosta91/Model-Optimization-For-Edge-Devices/blob/master/Github/Flow%20Chart%20Model%20Designing%20.png)
