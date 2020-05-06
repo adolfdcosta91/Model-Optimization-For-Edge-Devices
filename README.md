@@ -27,7 +27,7 @@ Archived a sound classification model that is **85%** accurate and only **360kB*
 
 ![Model Comparison](https://github.com/adolfdcosta91/Model-Optimization-For-Edge-Devices/blob/master/Github/ModelCompare.PNG)
 
-##Data Set
+## Data Set
 
 Label|Sound Sample
 ----|----
